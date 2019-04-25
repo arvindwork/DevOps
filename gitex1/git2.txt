@@ -1,0 +1,41 @@
+1) create a directory gitex2
+
+2) create the following files.
+   file1.txt
+   file2.txt
+
+3) commit both the files with a commit message "initial Commit"
+
+4) The above commit message needs to changed to "Initial Commit for file1.txt file2.txt"
+
+5) check the status of your commits
+
+6) I forgot to add a file named file3.txt as part of last commit
+
+7) Add file4.txt to staging
+
+8) revert the above file4.txt from staging	
+
+9) Again Add file4.txt to staging and commit
+
+10) Now undo the commit and remove the file4.txt
+
+11) create a file5.txt and temporary save the same 
+
+12) create a branch br1 
+
+13) rename the branch to future_branch1
+
+14) make some changes to file1.txt and commit
+
+15) create branch hotfix_branch
+
+16) modify file1.txt and commit
+
+17) merge both future_branch1 and hotfix_branch
+
+18) Resolve any merge conficts
+
+19) connect to remote repo and push the changes to remote repo
+
+20) delete the remote branch future_branch1
